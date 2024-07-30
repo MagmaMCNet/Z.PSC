@@ -3,6 +3,7 @@
 HDZero
 M023
 N006
+BoldxOnxSuicide
 
 >> UIBlacklist > UIBlacklist
 
