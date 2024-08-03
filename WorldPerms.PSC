@@ -1,8 +1,7 @@
 >> ZER0 > UI
 -LARP-
 HDZero
-M023
-N006
+M024
 BoldxOnxSuicide
 
 >> UIBlacklist > UIBlacklist
