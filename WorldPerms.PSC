@@ -1,9 +1,8 @@
 >> ZER0 > UI
 HDZero
-M043
-I Touch Retards
+MawJob?
 Pawjob?
-Lexie AI
+112ッッ
 
 >> UIBlacklist > UIBlacklist
 
@@ -13,4 +12,3 @@ Lucifer_12am
 Glock17s
 octoware
 ᴋᴜᴍα ®
-LARP01
