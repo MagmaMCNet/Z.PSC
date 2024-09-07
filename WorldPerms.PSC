@@ -1,6 +1,9 @@
 >> ZER0 > UI
-HDZero
-MawJob?
+MaɡmaMC
+MaɡmaVR
+ZER0 EXE
+ZER0CLIENT
+Mawjob?
 
 >> UIBlacklist > UIBlacklist
 
