@@ -4,10 +4,6 @@ MaɡmaVR
 ZER0 EXE
 ZER0CLIENT
 Mawjob?
-Benevolent
-˗ˏˋhomicide?ˎˊ˗
-hvh?
-аddress
 
 >> UIBlacklist > UIBlacklist
 
