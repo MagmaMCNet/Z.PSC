@@ -1,9 +1,8 @@
 >> ZER0 > UI
 MaɡmaMC
-MaɡmaVR
 ZER0 EXE
 ZER0CLIENT
-Mawjob?
+˗ˏˋhomicide?ˎˊ˗
 
 >> UIBlacklist > UIBlacklist
 
