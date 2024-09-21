@@ -3,6 +3,7 @@ MaɡmaMC
 ZER0 EXE
 ZER0CLIENT
 ˗ˏˋhomicide?ˎˊ˗
+Benevolent
 
 >> UIBlacklist > UIBlacklist
 
