@@ -1,5 +1,5 @@
 >> ZER0 > UI
-Zer0 EXE
+nnn_0x
 Benevolent
 >> UIBlacklist > UIBlacklist
 >> WorldBlacklist > Blacklist
