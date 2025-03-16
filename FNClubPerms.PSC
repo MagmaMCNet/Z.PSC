@@ -1,4 +1,5 @@
 >> ZER0 > UI+Supporter
+NexxusVro
 WinRing0      
 WinRing0x64   
 WinRing0․sys  
