@@ -1,10 +1,10 @@
->> ZER0 > UI+Supporter
+>> Developer > Developer+Supporter
 M3000_4
-Benevolent
 WinRing0
 mawjob
 ʟᴀʀᴘ
 
+>> Supporters > Supporter
 7th reason
 Jon Minadeo II
 
@@ -14,7 +14,5 @@ Jon Minadeo II
 // discord booster - dpuq
 RichOffInvoices
 
->> Supporters > Supporter
->> UIBlacklist > UIBlacklist
 >> WorldBlacklist > Blacklist
 lil_peep'
