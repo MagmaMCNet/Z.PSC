@@ -17,5 +17,9 @@ RichOffInvoices
 // VRCFX - savagecj420
 CJtheGoat69
 
+// VRCPlus - wtl.tokaa
+тσкαα×ѕтяαωвєяу
+
+
 >> WorldBlacklist > Blacklist
 lil_peep'
