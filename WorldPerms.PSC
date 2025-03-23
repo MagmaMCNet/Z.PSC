@@ -14,5 +14,8 @@ Jon Minadeo II
 // discord booster - dpuq
 RichOffInvoices
 
+// VRCFX - savagecj420
+CJtheGoat69
+
 >> WorldBlacklist > Blacklist
 lil_peep'
