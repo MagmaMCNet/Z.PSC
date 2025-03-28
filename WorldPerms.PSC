@@ -20,6 +20,7 @@ CJtheGoat69
 // VRCPlus - wtl.tokaa
 тσкαα×ѕтяαωвєяу
 
-
+// Server Booster - vomitonmyshirt
+Not Pierce
 >> WorldBlacklist > Blacklist
 lil_peep'
